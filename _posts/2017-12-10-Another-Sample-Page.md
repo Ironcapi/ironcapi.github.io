@@ -1,5 +1,5 @@
 ---
-title: Another Sample Page
+title: Avemus Papam
 published: true
 ---
 
@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # [](#header-1)Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+El recién elegido Papa León XIV, antes conocido como Robert Francis Prevost, reveló su pasión por el tenis y lamentó no poder practicarlo con frecuencia desde que asumió sus responsabilidades eclesiásticas. En una entrevista con la Orden Agustina, compartió que desde que dejó Perú no ha tenido muchas oportunidades de volver a la cancha.
 
 ## [](#header-2)Header 2
 
